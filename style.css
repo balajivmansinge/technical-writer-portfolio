@@ -85,7 +85,7 @@ html, body {
     radial-gradient(circle at top left, rgba(56,189,248,0.15), transparent 40%),
     radial-gradient(circle at bottom right, rgba(129,140,248,0.15), transparent 40%),
     linear-gradient(rgba(2,6,23,0.75), rgba(2,6,23,0.75)),
-    url("images/hero-bg.png") center/cover no-repeat;
+    url("images/hero-bg.png")
   display: flex;
   align-items: center;
   justify-content: center;
@@ -242,3 +242,4 @@ html, body {
   display: none;
   box-shadow: 0 15px 40px rgba(56,189,248,0.4);
 }
+
