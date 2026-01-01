@@ -242,4 +242,17 @@ html, body {
   display: none;
   box-shadow: 0 15px 40px rgba(56,189,248,0.4);
 }
+.about-text .highlight {
+  font-weight: 600;
+  color: #005f99;
+}
+
+.about-text .fun-fact {
+  font-style: italic;
+  background-color: #f0f8ff;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  display: inline-block;
+}
+
 
